@@ -1,0 +1,3 @@
+An ancient game of chess implemented using Java computer language. The earlier version was text based, but this newer version incorporates graphics using Java's AWT library. It has three game modes to choose from: Human VS Human, Human VS AI and AI VS AI modes. The Artificial Intelligence is pretty simple, because it is not based on any known chess AI algorithm, because the project owner created it himself. However it should provide some challenge anyway, but AI can become indecisive at the end. One of the coolest features is that the available moves are color coded.
+<br />
+<img src='http://java-chess.googlecode.com/files/Chess_screenshot.png' alt='Screenshot' />
